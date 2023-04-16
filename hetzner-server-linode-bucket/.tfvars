@@ -1,0 +1,7 @@
+application_name=""
+hcloud_token=""
+server_size=""
+server_image=""
+server_location=""
+ssh_key_path=""
+linode_token=""
